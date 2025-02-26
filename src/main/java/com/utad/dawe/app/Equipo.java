@@ -23,7 +23,6 @@ public class Equipo {
 			System.out.println(jugador1);
 			System.out.println(jugador2);
 			
-			
 			if(i==5 || i==10) {
 				System.out.println("Estadisticas de la jornada " + i);
 				System.out.println(jugador1);
